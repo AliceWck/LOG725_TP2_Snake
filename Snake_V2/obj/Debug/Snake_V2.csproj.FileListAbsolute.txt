@@ -1,0 +1,11 @@
+C:\Users\alice\Documents\Alice\INSA\4A\ETS\LOG725\TP2\Snake\Snake_V2\obj\Debug\Snake_V2.csproj.AssemblyReference.cache
+C:\Users\alice\Documents\Alice\INSA\4A\ETS\LOG725\TP2\Snake\Snake_V2\obj\Debug\Snake.exe.config
+C:\Users\alice\Documents\Alice\INSA\4A\ETS\LOG725\TP2\Snake\Snake_V2\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\alice\Documents\Alice\INSA\4A\ETS\LOG725\TP2\Snake\Snake_V2\obj\Debug\Snake_V2.csproj.GenerateResource.cache
+C:\Users\alice\Documents\Alice\INSA\4A\ETS\LOG725\TP2\Snake\Snake_V2\obj\Debug\Snake_V2.csproj.CoreCompileInputs.cache
+C:\Users\alice\Documents\Alice\INSA\4A\ETS\LOG725\TP2\Snake\Snake_V2\obj\Debug\Snake.exe
+C:\Users\alice\Documents\Alice\INSA\4A\ETS\LOG725\TP2\Snake\Snake_V2\obj\Debug\Snake.pdb
+C:\Users\alice\Documents\Alice\INSA\4A\ETS\LOG725\TP2\Snake\Snake_V2\obj\Debug\Snake.Window.resources
+C:\Users\alice\Documents\Alice\INSA\4A\ETS\LOG725\TP2\Snake\Snake_V2\bin\Debug\Snake.exe.config
+C:\Users\alice\Documents\Alice\INSA\4A\ETS\LOG725\TP2\Snake\Snake_V2\bin\Debug\Snake.exe
+C:\Users\alice\Documents\Alice\INSA\4A\ETS\LOG725\TP2\Snake\Snake_V2\bin\Debug\Snake.pdb
